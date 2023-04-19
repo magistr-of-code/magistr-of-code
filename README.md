@@ -18,8 +18,11 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/gradle-3670A0?style=for-the-badge&logo=gradle&logoColor=white" />
-  <img src="" />
-  <img src="" />
+  <img src="https://img.shields.io/badge/java-orange?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/html-%23DD0031?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <br />
