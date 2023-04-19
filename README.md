@@ -4,7 +4,7 @@
 <br />
 
 <p href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aleksul&theme=nord&margin-w=5&row=1&column=5&no-frame=true&title=Commits,PR,Repositories,Stars,Followers" />
+  <img src="https://github-profile-trophy.vercel.app/?username=magistr-of-code&theme=nord&margin-w=5&row=1&column=5&no-frame=true&title=Commits,PR,Repositories,Stars,Followers" />
 </p>
 
 <br />
