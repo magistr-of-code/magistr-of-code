@@ -1,7 +1,7 @@
 
 <p align="center">
   ![my github stats](https://github-readme-stats.vercel.app/api?username=magistr-of-code&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![](https://images-ext-1.discordapp.net/external/rBiDKErb8RsBP4RXkl2bw-teFWrMvv5vrObSW9hSm3E/https/media.discordapp.net/attachments/477596941757317121/811995113416032286/ratkid.gif?width=200&height=200)
+  ![](https://images-ext-1.discordapp.net/external/rBiDKErb8RsBP4RXkl2bw-teFWrMvv5vrObSW9hSm3E/https/media.discordapp.net/attachments/477596941757317121/811995113416032286/ratkid.gif?width=200&height=200)
   
   Here are some ideas to get you started:
   
