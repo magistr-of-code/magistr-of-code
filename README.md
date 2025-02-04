@@ -1,4 +1,4 @@
-![my github stats](https://github-readme-stats.vercel.app/api?username=magistr-of-code&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![my github stats](https://github-readme-stats.vercel.app/api?username=doctor4t&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 <p align="center">
   
   Here are some ideas to get you started:
