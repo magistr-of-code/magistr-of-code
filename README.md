@@ -3,7 +3,7 @@
   
   Here are some ideas to get you started:
   
-  - 🔭 I’m currently working on "Ghiblify"
+  - 🔭 I’m currently working on "Glitched Out"
   - 🌱 I’m currently learning java <img src="https://img.shields.io/badge/java-orange?style=for-the-badge&logo=oracle&logoColor=white" height="10"/> and lua <img src="https://img.shields.io/badge/lua-3670A0?style=for-the-badge&logo=lua&logoColor=white" height="10"/>
   - 👯 I’m looking to collaborate on "Effective
   - 😄 Pronouns: she/her
